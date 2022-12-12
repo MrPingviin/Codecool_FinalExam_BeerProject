@@ -64,8 +64,9 @@ header .material-symbols-outlined {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 5rem;
+  gap: 2rem;
   margin-bottom: 3rem;
+  max-width: 1200px;
 }
 
 .card {
