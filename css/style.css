@@ -118,7 +118,7 @@ body {
   background-color: #ffeedf;
   color: #145434;
   border: 2px solid #145434;
-  max-width: 48%;
+  width: 48%;
   height: 18%;
 }
 .DetailsButton span {
